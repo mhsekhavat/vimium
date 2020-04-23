@@ -11,3 +11,5 @@ dist
 jscoverage.json
 tags
 .cake_task_cache
+.env
+web-ext-artifacts/
